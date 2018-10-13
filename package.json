@@ -1,0 +1,27 @@
+{
+  "name": "genetic-web-dev",
+  "version": "0.0.0",
+  "description": "Genetic web development",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasco3/genetic-web-dev.git"
+  },
+  "keywords": [
+    "react",
+    "genetic",
+    "programming"
+  ],
+  "author": "Jorge Cuadra <jorgecuadrafueyo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vasco3/genetic-web-dev/issues"
+  },
+  "homepage": "https://github.com/vasco3/genetic-web-dev#readme",
+  "dependencies": {
+    "puppeteer": "^1.9.0"
+  }
+}
